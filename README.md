@@ -56,8 +56,7 @@ route.about() // "/about"
 ## Documentation
 
 - [Introduction](doc/intro.md)
-- Myro Examples (Coming Soon)
-- Myro React Examples (Coming Soon)
+- [Examples](examples/react)
 
 ## License
 
